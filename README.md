@@ -17,5 +17,5 @@
   <div>
       <a href="https://www.linkedin.com/in/alison-ribeiro/" target="_blank"><img width="30" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
       <a href="mailto:dev.alison.ribeiro@gmail.com" target="_blank"><img width="35" heigth="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>  
-      <a href="###" target="_blank"><img width="27" heigth="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
+      <a href="https://discord.gg/H3J4gbCZ" target="_blank"><img width="27" heigth="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
   </div>
