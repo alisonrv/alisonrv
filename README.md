@@ -3,7 +3,7 @@
 <h1>Welcome to my profile! | Bem vindo(a) ao meu perfil!</h1>
 
 - 🔭 I’m currently working on Support Agent
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and C#
 - 😄 Pronouns: he/him - ele/dele
 
 <div>
